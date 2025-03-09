@@ -21,7 +21,7 @@ Still, this material is complementary to theoretical content included in [this p
 
 ## Contact and information
 
-This material has been prepared by [Samuel Miravet-Verde](samuelmiver@gmail.com).
+This material has been prepared by [Samuel Miravet-Verde](mailto:samuelmiver@gmail.com).
 
 In some cases, I have taken inspiration or even examples from very clever people in the field, in those cases, the links and references will be present in the respective sections of the notebooks. 
 
