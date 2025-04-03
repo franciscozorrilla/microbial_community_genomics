@@ -16,8 +16,8 @@ Still, this material is complementary to theoretical content included in [this p
 
 ## Suggested references
 
-[Biosynthetic potential of the global ocean microbiome | Nature](https://www.nature.com/articles/s41586-022-04862-3)
-[Global marine microbial diversity and its potential in bioprospecting | Nature](https://www.nature.com/articles/s41586-024-07891-2)
+- [Biosynthetic potential of the global ocean microbiome | Nature](https://www.nature.com/articles/s41586-022-04862-3)
+- [Global marine microbial diversity and its potential in bioprospecting | Nature](https://www.nature.com/articles/s41586-024-07891-2)
 
 ## Contact and information
 
