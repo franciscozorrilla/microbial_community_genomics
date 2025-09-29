@@ -14,6 +14,33 @@ There are three main components in this repo:
 2. [Main jupyter notebook](./hands_on_genome_mining.ipynb) with self-contained code to run the different analyses. 
 3. [Data folder](./data) with basic example files to avoid large computation.
 
+
+## 🛠️ Quickstart
+
+You may run these exercises on your local machine by cloning this repo:
+
+```
+$ git clone https://github.com/franciscozorrilla/microbial_community_genomics.git
+```
+
+Navigate into cloned repo folder:
+
+```
+$ cd microbial_community_genomics
+```
+
+Launch interactive jupyter notebook session:
+
+```
+$ jupyter notebook
+```
+
+This should launch a browser window where you can start the exercises.
+
+Alternatively launch an interactive binder session by clicking below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/franciscozorrilla/microbial_community_genomics/HEAD)
+
 ## 📚 Suggested references
 
 - [Biosynthetic potential of the global ocean microbiome](https://www.nature.com/articles/s41586-022-04862-3)
