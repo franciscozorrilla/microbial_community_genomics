@@ -1,28 +1,26 @@
-# Genome Mining
+# 🧬 Microbial Community Genomics 💻
 
-## Preface
+Teaching materials for the **Sunagawa Lab Block Course Fall 2025: 551-1119-00L Microbial Community Genomics** at ETH Zürich.
 
-Hands-on material to run different genome mining approaches in python for the lecture "Gene annotation; a key step in integrating omics methods" as part of the the course "Multi-omics analyses of the microbial community" at Swedish University of Agricultural Sciences (SLU). 
+## 📰 About
 
-## Repository content
+This repo has been forked from hands-on material related to genome mining approaches compiled by [Dr. Miravet-Verde](https://github.com/samuelmiver), associated with [the lecture](https://docs.google.com/presentation/d/1iad5MKHSTRdqDJgdIiTemxh5WUb9z7kTxrSJEfBV_tU/edit?usp=sharing) *Gene annotation; a key step in integrating omics methods* delivered as part of the the course *Multi-omics analyses of the microbial community* at Swedish University of Agricultural Sciences (SLU).
 
-To keep it easy, we just link here:
+## 🧰 Contents
 
-- a [basic introduction to python](./introduction_to_python.ipynb) including variables, statements and basic plotting for dataframes. 
-- a [main jupyter notebook](./hands_on_genome_mining.ipynb) with all the self-contained code to run the different analyses. 
-- a [data folder](./data) with basic example files to avoid large computation (it is a bit messy, sorry! be better than me organizing your directories!) 
+There are three main components in this repo:
 
-Still, this material is complementary to theoretical content included in [this presentation](https://docs.google.com/presentation/d/1iad5MKHSTRdqDJgdIiTemxh5WUb9z7kTxrSJEfBV_tU/edit?usp=sharing).
+1. a [basic introduction to python](./introduction_to_python.ipynb) including variables, statements and basic plotting for dataframes. 
+2. a [main jupyter notebook](./hands_on_genome_mining.ipynb) with self-contained code to run the different analyses. 
+3. a [data folder](./data) with basic example files to avoid large computation.
 
-## Suggested references
+## 📚 Suggested references
 
 - [Biosynthetic potential of the global ocean microbiome | Nature](https://www.nature.com/articles/s41586-022-04862-3)
 - [Global marine microbial diversity and its potential in bioprospecting | Nature](https://www.nature.com/articles/s41586-024-07891-2)
 
-## Contact and information
+## 🪪 Contact info
 
-This material has been prepared by [Samuel Miravet-Verde](mailto:samuelmiver@gmail.com).
+These material has been prepared by [Samuel Miravet-Verde](https://github.com/samuelmiver) and re-organized by [Francisco Zorrilla](https://github.com/franciscozorrilla).
 
-In some cases, I have taken inspiration or even examples from very clever people in the field, in those cases, the links and references will be present in the respective sections of the notebooks. 
-
-**Latest update**: 2025/03/11
+**Latest update**: 2025/09/29
