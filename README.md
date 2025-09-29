@@ -10,9 +10,9 @@ This repo has been forked from hands-on material related to genome mining approa
 
 There are three main components in this repo:
 
-1. a [basic introduction to python](./introduction_to_python.ipynb) including variables, statements and basic plotting for dataframes. 
-2. a [main jupyter notebook](./hands_on_genome_mining.ipynb) with self-contained code to run the different analyses. 
-3. a [data folder](./data) with basic example files to avoid large computation.
+1. [Basic introduction to python](./introduction_to_python.ipynb) including variables, statements and basic plotting for dataframes. 
+2. [Main jupyter notebook](./hands_on_genome_mining.ipynb) with self-contained code to run the different analyses. 
+3. [Data folder](./data) with basic example files to avoid large computation.
 
 ## 📚 Suggested references
 
