@@ -1,6 +1,6 @@
 # 🧬 Microbial Community Genomics 💻
 
-Teaching materials for the **Sunagawa Lab Block Course Fall 2025: 551-1119-00L Microbial Community Genomics** at ETH Zürich.
+Teaching materials for the **Sunagawa Lab Block Course Fall 2025: 551-1119-00L Microbial Community Genomics** at ETH Zürich. Instructed by [Samuel Miravet-Verde](https://github.com/samuelmiver), [Martin Sperfeld](https://github.com/martsper), and [Francisco Zorrilla](https://github.com/franciscozorrilla).
 
 ## 📰 About
 
