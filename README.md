@@ -16,8 +16,12 @@ There are three main components in this repo:
 
 ## 📚 Suggested references
 
-- [Biosynthetic potential of the global ocean microbiome | Nature](https://www.nature.com/articles/s41586-022-04862-3)
-- [Global marine microbial diversity and its potential in bioprospecting | Nature](https://www.nature.com/articles/s41586-024-07891-2)
+- [Biosynthetic potential of the global ocean microbiome](https://www.nature.com/articles/s41586-022-04862-3)
+- [Global marine microbial diversity and its potential in bioprospecting](https://www.nature.com/articles/s41586-024-07891-2)
+- [What is flux balance analysis?](https://www.nature.com/articles/nbt.1614)
+- [CarveMe: Fast automated reconstruction of genome-scale metabolic models for microbial species and communities](https://academic.oup.com/nar/article/46/15/7542/5042022)
+- [SMETANA: Metabolic dependencies drive species co-occurrence in diverse microbial communities](https://www.pnas.org/content/112/20/6449)
+
 
 ## 🪪 Contact info
 
