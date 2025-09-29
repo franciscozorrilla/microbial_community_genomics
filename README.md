@@ -4,7 +4,7 @@ Teaching materials for the **Sunagawa Lab Block Course Fall 2025: 551-1119-00L M
 
 ## 📰 About
 
-This repo has been forked from hands-on material related to genome mining approaches compiled by [Dr. Miravet-Verde](https://github.com/samuelmiver), associated with [the lecture](https://docs.google.com/presentation/d/1iad5MKHSTRdqDJgdIiTemxh5WUb9z7kTxrSJEfBV_tU/edit?usp=sharing) *Gene annotation; a key step in integrating omics methods* delivered as part of the the course *Multi-omics analyses of the microbial community* at Swedish University of Agricultural Sciences (SLU).
+This repo has been forked from hands-on material related to genome mining approaches compiled by [Samuel Miravet-Verde](https://github.com/samuelmiver), associated with [the lecture](https://docs.google.com/presentation/d/1iad5MKHSTRdqDJgdIiTemxh5WUb9z7kTxrSJEfBV_tU/edit?usp=sharing) *Gene annotation; a key step in integrating omics methods* delivered as part of the the course *Multi-omics analyses of the microbial community* at Swedish University of Agricultural Sciences (SLU).
 
 ## 🧰 Contents
 
